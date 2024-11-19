@@ -5,7 +5,7 @@
 </div>
 
 ## 👨🏻‍💻 <b>About Me</b>
-I'm currently studying web development, dedicated to building expertise in front-end design. I'm passionate about creating user interfaces that blend thoughtful UX with captivating UI. My goal is to craft seamless, intuitive experiences that are both functional and visually engaging.
+I'm currently studying web development, with a strong focus on front-end. I'm passionate about UX/UI design and strive to create user interfaces that are both functional and visually appealing.
 
 ## 💻 <b>Technologies</b>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
